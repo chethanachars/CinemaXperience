@@ -1,0 +1,57 @@
+.slide {
+    margin-top: -65px;
+}
+
+.carousel-inner {
+    background: radial-gradient(#1a237e, #0d47a1); /* Dark Blue radial gradient */
+}
+
+.carousel-inner img {
+    height: 600px;
+    margin: 0 auto;
+}
+
+.s1 {
+    background-image: url("../images/1.1a880e7b638c.jpg");
+    height: 600px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.s2 {
+    background-image: url("../images/2.3d60fcb2fc21.jpg");
+    height: 600px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.s3 {
+    background-image: url("../images/3.7109cc0994ba.jpg");
+    height: 600px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.s4 {
+    background-image: url("../images/4.5a00458c5cef.jpg");
+    height: 600px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.s5 {
+    background-image: url("../images/5.38c1e0886f79.jpg");
+    height: 600px;
+    background-position: -10px -150px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#logo {
+    text-decoration: none;
+    color: white;
+}

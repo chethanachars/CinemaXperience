@@ -1,0 +1,57 @@
+body {
+  background-image: url("../images/bg.17c7ae1defe7.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.btn-primary {
+  background-image: linear-gradient(45deg, #0d47a1, #1565c0); /* Adjusted dark Blue gradient for the button */
+  border-radius: 15px;
+  border: none;
+  width: 250px;
+  margin-top: 10px;
+  color: white;
+}
+
+.login, .register, .cinema {
+  background-color: rgba(33, 33, 33, 0.9);
+  margin: 80px 20px;
+  border-radius: 30px;
+  padding: 50px;
+  box-shadow: 16px 13px 40px #0d47a1;
+  color: white;
+}
+
+.login h1 {
+  color: #0d47a1; /* Dark Blue color for the heading */
+}
+
+.login .form-group label {
+  color: white;
+}
+
+.login .form-group input {
+  background-color: rgba(255, 255, 255, 0.1); /* Slightly transparent white background for input */
+  color: white;
+  border: 1px solid #0d47a1; /* Dark Blue border for input */
+}
+
+.login .form-group input::placeholder {
+  color: #b0bec5; /* Lighter Blue color for input placeholder */
+}
+
+.login .btn-primary {
+  background-image: linear-gradient(45deg, #0d47a1, #1565c0);
+  border-radius: 15px;
+  border: none;
+  width: 100%;
+  margin-top: 20px;
+  color: white;
+}
+
+.login .btn-primary:hover {
+  background-image: none;
+  border: 1px solid #1565c0;
+  font-weight: 600;
+}
