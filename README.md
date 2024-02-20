@@ -55,4 +55,4 @@ CinemaXperience is a Django-based web application that aims to provide an enhanc
 3. Apply migrations with `python manage.py migrate`.
 4. Run the development server with `python manage.py runserver`.
 
-Visit our [live demo](#) to experience CinemaXperience firsthand!
+##This Project is built as an assignment for Applied S&I , Banglore
