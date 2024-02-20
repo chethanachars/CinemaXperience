@@ -31,11 +31,13 @@ CinemaXperience is a Django-based web application that aims to provide an enhanc
 *Description: User registration page with fields for creating a new account.*
 
 ### 4. Profile
-![Profile](screenshots/profile.png)
+![Profile](https://github.com/chethanachars/CinemaXperience/assets/158150756/b486d108-767f-44a4-974c-f1ca12690f5e)
+
 *Description: User profile page displaying personalized information and settings.*
 
 ### 5. Earnings
-![Earnings](screenshots/earnings.png)
+![Earnings](https://github.com/chethanachars/CinemaXperience/assets/158150756/ec76bf6d-de44-4128-be85-c07d209569bd)
+
 *Description: Earnings page for users, showing booking history and expenses.*
 
 ### 6. Booking
